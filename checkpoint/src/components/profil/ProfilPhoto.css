@@ -1,0 +1,9 @@
+.photo{
+    width: 20rem;
+    height: 20rem;
+}
+
+.photo img{
+    width: 100%;
+    height: inherit;
+}
